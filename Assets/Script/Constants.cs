@@ -1,0 +1,11 @@
+﻿public class Constants 
+{
+	public const string KEY_COINCOUNT = "CoinCount";
+
+	public const string KEY_REWARD_COOLDOWN_TIME = "RewardCooldownTime";
+
+	public const string KEYFORMAT_LEVEL_UNLOCKED = "Level{0:00}_Unlocked";
+	public const string KEYFORMAT_LEVEL_HIGHSCORE = "Level{0:00}_HighScore";
+
+    public const string KEY_TUTORIAL = "KEY_TUTORIAL";
+}

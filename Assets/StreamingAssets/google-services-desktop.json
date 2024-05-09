@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "615944959613",
+    "firebase_url": "https://admob-app-id-1720097131.firebaseio.com",
+    "project_id": "admob-app-id-1720097131",
+    "storage_bucket": "admob-app-id-1720097131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615944959613:android:8e0d5b84af7ce13c",
+        "android_client_info": {
+          "package_name": "com.water.mancalabestboardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615944959613-qvjdp6uflfdrh3jtjbn16n5801hrm25e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-kNhHmqMXQiE4mQv2ZZnfh8TmCcXfTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615944959613-qvjdp6uflfdrh3jtjbn16n5801hrm25e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615944959613-50331q6cmku46ls8opt03b8ad65ghb7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.water.mancalabestboardgame",
+                "app_store_id": "1041732970"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7368003023090562~2845770334"
+    }
+  ],
+  "configuration_version": "1"
+}
